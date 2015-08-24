@@ -1,0 +1,11 @@
+default,arrow_default.png,bow_default.png,2,2,2,2,2,2
+multple_1,arrow_1.png,bow_1.png,2,2,4,2,4,2
+multple_2,arrow_2.png,bow_2.png,3,3,6,3,6,3
+multple_3,arrow_3.png,bow_3.png,4,4,8,4,8,4
+power_1,power_arrow_1.png,power_bow_1.png,4,2,2,4,2,2
+power_2,power_arrow_2.png,power_bow_2.png,6,3,3,6,3,3
+power_3,power_arrow_3.png,power_bow_3.png,8,4,4,8,4,4
+speed_1,speed_arrow_1.png,speed_bow_1.png,2,4,2,2,2,4
+speed_2,speed_arrow_2.png,speed_bow_2.png,3,6,3,3,3,6
+speed_3,speed_arrow_3.png,speed_bow_3.png,4,8,4,4,4,8
+demon,final_arrow.png,final_bow.png,20,20,20,20,20,20

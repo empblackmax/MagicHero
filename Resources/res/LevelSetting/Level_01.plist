@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"[]>
+<plist version="1.0">
+  <dict>
+    <key>enemy_count</key>
+    <string>10</string>
+    <key>monster_name</key>
+    <array>
+      <string>duyanguai</string>
+      <string>manzutu</string>
+    </array>
+    <key>senior_limit</key>
+    <string>3</string>
+    <key>senior_monster_name</key>
+    <array>
+      <string>yemanshouren</string>
+    </array>
+    <key>boss_name</key>
+    <string>Orc</string>
+  </dict>
+</plist>
